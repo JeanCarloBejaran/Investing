@@ -1,4 +1,4 @@
-# Investing
+# Investing Strategy Data Sources
 What informs my investing strategies. (public)
 
 The Econ_indicators.md file:
